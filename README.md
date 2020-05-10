@@ -1,6 +1,7 @@
 # Lexical-Comparison-Between-News-Mediums
 Lexical Comparison Between News Mediums by Using Word Embeddings for Media Bias Identification
 
+### Data
 The PostgreSQL database containing vast number of various news articles was provided by the Data & Knowledge Engineering Group of the University of Wuppertal.
 
 ### Codes

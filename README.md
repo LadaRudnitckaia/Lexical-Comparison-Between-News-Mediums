@@ -1,8 +1,14 @@
 # Lexical-Comparison-Between-News-Mediums
 Lexical Comparison Between News Mediums by Using Word Embeddings for Media Bias Identification
 
-### Abstract
-In the term paper, lexical comparison between left- and right-wing news mediums (The Huffington Post and Breitbart News) is conducted with the focus on bias inducing lexica and with the use of word embeddings. No direct relation is found between bias inducing words and the words whose vectors are distant from each other in the word embedding spaces trained separately on the HuffPost and Breitbart articles. Among the most similar words (in the word embedding spaces) to the words related to controversial opinions between left- and right-wing communities, no salient differences were found. The differences in the most similar words to bias inducing words cannot be explained by the differences in the views of left- and right-leaning communities.
+The PostgreSQL database containing vast number of various news articles was provided by the Data & Knowledge Engineering Group of the University of Wuppertal.
 
-### Keywords
-media bias, bias lexicon, word embeddings, Word2Vec
+### Codes
+Preprocessing_and_training.ipynb contains data exploration, pre-processing and word embeddings training.
+Lexical_comparison.ipynb contains linear mapping matrix training and lexical comparison.
+
+### Lexicon analysis
+The folder contains files that were used for manual analysis of distant words, of top 20 most similar to controversial and bias words and distances (pure and adjusted cosine similarities) for the common vocabulary.
+
+### Models
+Folder contains Word2Vec models trained on HuffPost articles, Breitbart articles as well as vectors from HuffPost mapped to Breitbart.

@@ -11,8 +11,8 @@ Lexical_comparison.ipynb contains linear mapping matrix training and lexical com
 ### Lexicon analysis
 The folder contains files that were used for manual analysis of distant words, of top 20 most similar to controversial and bias words and distances (pure and adjusted cosine similarities) for the common vocabulary.
 
-<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/nut_context.png" width="500"> <img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/abortion_context.png" width="500"> 
-<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/overlooks_context.png" width="500"> <img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/security_context.png" width="500">
+<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/nut_context.png" width="400"> <img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/abortion_context.png" width="400"> 
+<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/overlooks_context.png" width="400"> <img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/security_context.png" width="400">
 
 ### Models
 Folder contains Word2Vec models trained on HuffPost articles, Breitbart articles as well as vectors from HuffPost mapped to Breitbart.

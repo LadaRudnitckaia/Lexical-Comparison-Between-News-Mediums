@@ -1,6 +1,8 @@
 # Lexical-Comparison-Between-News-Mediums
 Lexical Comparison Between News Mediums by Using Word Embeddings for Media Bias Identification
 
+![Alt text](https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/nut_context.png)
+
 ### Data
 The PostgreSQL database containing vast number of various news articles was provided by the Data & Knowledge Engineering Group of the University of Wuppertal.
 
@@ -13,3 +15,5 @@ The folder contains files that were used for manual analysis of distant words, o
 
 ### Models
 Folder contains Word2Vec models trained on HuffPost articles, Breitbart articles as well as vectors from HuffPost mapped to Breitbart.
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")

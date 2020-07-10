@@ -1,8 +1,7 @@
 # Lexical-Comparison-Between-News-Mediums
 Lexical Comparison Between News Mediums by Using Word Embeddings for Media Bias Identification
 
-<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/nut_context.png" width="400"> <img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/abortion_context.png" width="400">
-<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/overlooks_context.png" width="400">
+<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/nut_context.png" width="400"> <img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/abortion_context.png" width="400"> <img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Lexicon%20analysis/overlooks_context.png" width="400">
 
 
 ### Data
@@ -17,3 +16,5 @@ The folder contains files that were used for manual analysis of distant words, o
 
 ### Models
 Folder contains Word2Vec models trained on HuffPost articles, Breitbart articles as well as vectors from HuffPost mapped to Breitbart.
+
+<img src="https://github.com/LadaRudnitckaia/Lexical-Comparison-Between-News-Mediums/blob/master/Models/HuffPost%20mapped%20to%20Breitbart/mapping.png" width="600">
